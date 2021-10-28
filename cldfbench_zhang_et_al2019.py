@@ -8,17 +8,6 @@ class Dataset(phlorest.Dataset):
     id = "zhang_et_al2019"
 
     def cmd_makecldf(self, args):
-        """
-summary.trees: original/109SinoTibetanLanguages.MCC.tree
-	cp $< $@
-
-posterior.trees: original/Sino-Tibetan\ Posterior\ tree\ distribution.trees.gz
-	# remove 1000 (10%), sample 1000
-	nexus trees -c -d 1-1000 -n 1000 "$<" -o $@
-
-data.nex:
-	cp paper/41586_2019_1153_MOESM4_ESM/109SinoTibetanLanguages_Swadesh100.nex $@
-        """
         self.init(args)
         with self.nexus_summary() as nex:
             self.add_tree_from_nexus(
