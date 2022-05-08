@@ -27,13 +27,13 @@
         {
             "rdf:about": "https://github.com/phlorest/zhang_et_al2019",
             "rdf:type": "prov:Entity",
-            "dc:created": "ba6e9c4",
+            "dc:created": "62ae9c6",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v4.4",
+            "dc:created": "v4.5",
             "dc:title": "Glottolog"
         }
     ],
