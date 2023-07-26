@@ -11,5 +11,25 @@
         {
             "identifier": "dplace"
         }
+    ],
+    "creators": [
+        {
+            "name": "Menghan Zhang"
+        },
+        {
+            "name": "Shi Yan"
+        },
+        {
+            "name": "Wuyun Pan"
+        },
+        {
+            "name": "Li Jin"
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Greenhill, S. J.",
+            "type": "Other"
+        }
     ]
 }
