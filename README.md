@@ -1,4 +1,6 @@
-# Dataset zhang_et_al2019
+# Phlorest phylogeny derived from Zhang et al 2019 'Sino-Tibetan (Zhang et al. 2019)'
+
+[![CLDF validation](https://github.com/phlorest/zhang_et_al2019/workflows/CLDF-validation/badge.svg)](https://github.com/phlorest/zhang_et_al2019/actions?query=workflow%3ACLDF-validation)
 
 ## How to cite
 
@@ -9,8 +11,12 @@ If you use these data please cite
 
 ## Description
 
+A [Phlorest phylogeny](https://github.com/phlorest) of the Sino-Tibetan language family computed from a bayesian analysis scaled by years.
 
-Available online at 10.1038/s41586-019-1153-z
+
+This dataset is licensed under a https://creativecommons.org/licenses/by/2.0/ license
+
+Source available online at https://doi.org/10.1038/s41586-019-1153-z
 
 
 ## CLDF Datasets
@@ -21,4 +27,4 @@ The following CLDF datasets are available in [cldf](cldf):
 
 ## Summary Tree
 
-![summary](./summary_tree.svg)
+![summary](https://raw.githubusercontent.com/phlorest/zhang_et_al2019/main/summary_tree.svg)
