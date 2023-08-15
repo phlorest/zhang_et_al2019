@@ -1,6 +1,7 @@
 # Phlorest phylogeny derived from Zhang et al 2019 'Sino-Tibetan (Zhang et al. 2019)'
 
 [![CLDF validation](https://github.com/phlorest/zhang_et_al2019/workflows/CLDF-validation/badge.svg)](https://github.com/phlorest/zhang_et_al2019/actions?query=workflow%3ACLDF-validation)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8250323.svg)](https://doi.org/10.5281/zenodo.8250323)
 
 ## How to cite
 
