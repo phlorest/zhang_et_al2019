@@ -10,6 +10,7 @@
     "scaling": "years",
     "analysis": "bayesian",
     "family": "Sino-Tibetan",
+    "artefacts": ["binarycovarion.relaxedlognormalclock.xml"],
     "missing": {
         "characters": "not readily available",
         "cldf": "not readily available"
