@@ -4,7 +4,7 @@ babel==2.18.0
 bibtexparser==2.1.0
 certifi==2026.7.22
 cldfbench==2.0.1
--e git+https://github.com/phlorest/zhang_et_al2019.git@07d8ddda2b1b397e9a88ce735429ec8e78c6ae93#egg=cldfbench_zhang_et_al2019
+-e git+https://github.com/phlorest/zhang_et_al2019.git@aa3761fa2c7363c16633cd648843b958c5bf749e#egg=cldfbench_zhang_et_al2019
 cldfcatalog==1.7.0
 cldfviz==2.0.0
 cldfzenodo==3.0.0
